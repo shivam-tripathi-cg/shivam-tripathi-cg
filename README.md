@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/shivam-tripathi-cg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shivam-tripathi-928aa8427/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/shivam.ti_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:shivam.tripathi.cg@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
