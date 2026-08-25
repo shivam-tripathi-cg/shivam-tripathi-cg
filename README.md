@@ -34,8 +34,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=shivam-tripathi-cg&theme=tokyonight&hide_border=true" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-tripathi-cg&theme=tokyo-night&hide_border=true" width="90%"/>
-
 </div>
 <br/>
 
