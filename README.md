@@ -35,6 +35,7 @@
 <img src="https://streak-stats.demolab.com/?user=shivam-tripathi-cg&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
+
 <br/>
 
 ## 🛠️ Tech Stack
