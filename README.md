@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shivam%20Tripathi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20AI%20Specialization%20%7C%20B.Tech%20CSE&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%AE%E0%A5%8D%20%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AA%E0%A4%BE%E0%A4%A0%E0%A5%80&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20AI%20Specialization%20%7C%20B.Tech%20CSE&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI)+Student;Learning+Python%2C+JS+%26+Full+Stack+Dev;Future+Founder+%7C+Building+for+Bharat" alt="Typing SVG" />
 
