@@ -17,10 +17,9 @@
 ## 🚀 About Me
 
 - 🎓 First-year **B.Tech CSE (AI Specialization)** student at Swaminarayan University, through the **CodingGita** program
-- 🌱 Currently building strong fundamentals: **Python → JavaScript → Full Stack Development**
-- 💻 Learning backend logic, OOP, and version control (Git/GitHub) from the ground up
-- 🎯 Long-term goal: building an **India-made alternative to global messaging platforms** like WhatsApp & Telegram
-- 📚 Reading *Thinking, Fast and Slow* and *The Psychology of Money* — coding the brain along with the machine
+- 🌱 Currently building strong fundamentals: **Python → HTML/CSS/JavaScript → Full Stack Development**
+- 💻 Learning backend logic, OOP, and version control (Git/GitHub), Figma from the ground up
+- 🎯 Long-term goal: building an **India-made alternative of OS and its Software**
 - ⚡ Fun fact: I debug my code the same way I debug my workouts — one rep, one error at a time
 
 <br/>
@@ -51,10 +50,10 @@
 | Stage | Topic | Status |
 |---|---|---|
 | 1 | Python Fundamentals (loops, recursion, OOP, file handling) | 🔄 In Progress |
-| 2 | HTML | 🔄 In Progress |
-| 3 | Figma (UI/UX basics) | 🔄 In Progress |
-| 4 | Git & GitHub Workflow | 🔄 In Progress |
-| 5 | JavaScript Fundamentals | ⏳ Upcoming |
+| 2 | HTML | Completed ✅ |
+| 3 | Figma (UI/UX basics) | Completed ✅ |
+| 4 | Git & GitHub Workflow | Completed ✅ |
+| 5 | JavaScript Fundamentals | 🔄 In Progress |
 | 6 | Backend Development (Node.js / APIs) | ⏳ Upcoming |
 | 7 | Full Stack Projects | ⏳ Upcoming |
 | 8 | Advanced AI/ML Specialization | ⏳ Upcoming (basics first) |
