@@ -89,7 +89,7 @@ Deep interest in spirituality and meditation, drawing on ideas of discipline and
 
 ## 🌱 The Vision
 
-> Every backend function I write today, every bug I fix — it's one brick toward building **India's own communication platform**. Not just an app. A statement that we build world-class tech, here.
+> Every backend function I write today, every bug I fix — it's one brick toward building **India's own OS platform**. Not just an app. A statement that we build world-class tech, here.
 
 <br/>
 
