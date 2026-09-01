@@ -51,12 +51,13 @@
 |---|---|---|
 | 1 | Python Fundamentals (loops, recursion, OOP, file handling) | 🔄 In Progress |
 | 2 | HTML | Completed ✅ |
-| 3 | Figma (UI/UX basics) | Completed ✅ |
-| 4 | Git & GitHub Workflow | Completed ✅ |
-| 5 | JavaScript Fundamentals | 🔄 In Progress |
-| 6 | Backend Development (Node.js / APIs) | ⏳ Upcoming |
-| 7 | Full Stack Projects | ⏳ Upcoming |
-| 8 | Advanced AI/ML Specialization | ⏳ Upcoming (basics first) |
+| 3 | CSS  | 🔄 In Progress |
+| 4 | JavaScript Fundamentals | 🔄 In Progress |
+| 5 | Figma (UI/UX basics) | Completed ✅ |
+| 6 | Git & GitHub Workflow | Completed ✅ |
+| 7 | Backend Development (Node.js / APIs) | ⏳ Upcoming |
+| 8 | Full Stack Projects | ⏳ Upcoming |
+| 9 | Advanced AI/ML Specialization | ⏳ Upcoming (basics first) |
 
 <br/>
 
