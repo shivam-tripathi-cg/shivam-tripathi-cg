@@ -49,15 +49,16 @@
 
 | Stage | Topic | Status |
 |---|---|---|
-| 1 | Python Fundamentals (loops, recursion, OOP, file handling) | 🔄 In Progress |
-| 2 | HTML | Completed ✅ |
-| 3 | CSS  | 🔄 In Progress |
-| 4 | JavaScript Fundamentals | 🔄 In Progress |
-| 5 | Figma (UI/UX basics) | Completed ✅ |
-| 6 | Git & GitHub Workflow | Completed ✅ |
-| 7 | Backend Development (Node.js / APIs) | ⏳ Upcoming |
-| 8 | Full Stack Projects | ⏳ Upcoming |
-| 9 | Advanced AI/ML Specialization | ⏳ Upcoming (basics first) |
+| 1 | Python Fundamentals (loops, recursion, OOP, file handling) | Completed ✅ |
+| 2 | DSA in Python | 🔄 In Progress |
+| 3 | HTML | Completed ✅ |
+| 4 | CSS  | 🔄 In Progress |
+| 5 | JavaScript Fundamentals | 🔄 In Progress |
+| 6 | Figma (UI/UX basics) | Completed ✅ |
+| 7 | Git & GitHub Workflow | Completed ✅ |
+| 8 | Backend Development (Node.js / APIs) | ⏳ Upcoming |
+| 9 | Full Stack Projects | ⏳ Upcoming |
+| 10 | Advanced AI/ML Specialization | ⏳ Upcoming (basics first) |
 
 <br/>
 
